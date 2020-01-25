@@ -2,7 +2,7 @@
   "name": "comicdb",
   "version": "0.1.0",
   "description": "Basic Comic book databasing library",
-  "main": "./lib/index.js",
+  "main": "./lib",
   "bin": {
     "comicArchive": "./bin/index.js" 
   },
