@@ -1,3 +1,4 @@
 /node_modules
 /lib/adapters/setup.sql
+/lib/adapters/config.json
 /package-lock.json
