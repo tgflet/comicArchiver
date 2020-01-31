@@ -13,5 +13,5 @@ if ( commands[0] === '--add') {
     return
 }
 if(!commands[0]){
-    archive.load();
+    archive.status();
 }
